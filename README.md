@@ -1,0 +1,1 @@
+# 3B-2026-Gerador-de-Senhas
